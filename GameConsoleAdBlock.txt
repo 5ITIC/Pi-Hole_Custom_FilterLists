@@ -1,0 +1,29 @@
+# Game Console Adblock List (converted for Pi-hole)
+# Original: DandelionSprout Game Console Adblock List, 14 November 2026 v1-Alpha
+
+# PlayStation 3
+0.0.0.0 .dl.playstation.net
+0.0.0.0 dl.playstation.net
+0.0.0.0 nsx.np.dl.playstation.net
+0.0.0.0 adproxy.ndmdhs.com
+
+# Xbox 360
+0.0.0.0 rad.msn.com
+
+# Nintendo Switch (telemetry and error reports)
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
+0.0.0.0 realtime-receive-lp1.dg.srv.nintendo.net
+0.0.0.0 receive-lp1.er.srv.nintendo.net
+0.0.0.0 sprofile-lp1.cdn.nintendo.net
+
+# PlayStation 5
+0.0.0.0 telemetry-console.api.playstation.com
+0.0.0.0 telemetry-cii.api.playstation.com
+
+# Xbox Series X/S
+0.0.0.0 at.atwola.com
+0.0.0.0 nw-umwatson.events.data.microsoft.com
+0.0.0.0 watson.events.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telemetry.microsoft.com
