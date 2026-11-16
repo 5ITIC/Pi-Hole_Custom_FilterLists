@@ -216,6 +216,7 @@
 0.0.0.0 andr-25-aftkmst12-641002610.api.amazonvideo.com
 0.0.0.0 prod.amazoncrl.com
 0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 ktpx-na.amazon.com
 
 # Xioami Mi TV
 0.0.0.0 mitv.tracking.intl.miui.com
