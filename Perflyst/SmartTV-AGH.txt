@@ -60,9 +60,9 @@
 0.0.0.0 www.samsungotn.net
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungadhub.com
-0.0.0.0samsungcloudsolution.com
-0.0.0.0samsungcloudsolution.net
-0.0.0.0samsungqbe.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 samsungqbe.com
 0.0.0.0 sas.samsungcloudsolution.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 syncplusconfig.s3.amazonaws.com
