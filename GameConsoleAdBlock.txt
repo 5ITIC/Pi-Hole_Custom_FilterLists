@@ -1,4 +1,4 @@
-# Game Console Adblock List (converted for Pi-hole)
+# Game Console Adblock List (converted for Pi-hole) [Modifed by 5itic]
 # Original: DandelionSprout Game Console Adblock List, 14 November 2026 v1-Alpha
 
 # PlayStation Vita
