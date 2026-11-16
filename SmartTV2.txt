@@ -184,18 +184,6 @@
 0.0.0.0 cdns-content.dzcdn.net
 0.0.0.0 nbc-jite.nbcuni.com
 
-
-# Netflix
-# secure, api-global, ichnaea, and appboot break Netflix
-0.0.0.0 customerevents.netflix.com
-0.0.0.0 nrdp.nccp.netflix.com
-
-# Spotify
-0.0.0.0 api-tv.spotify.com
-
-# Hulu
-0.0.0.0 api.distribution.hulu.com
-
 # Sharp Smart TV using Opera OS (thanks to sml156)
 # These may be needed for software/firmware update's, not sure if it's one or both but the first one try's thousands of times a day to connect.
 0.0.0.0 api.us.hismarttv.com
