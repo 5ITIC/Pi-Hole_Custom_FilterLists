@@ -217,6 +217,7 @@
 0.0.0.0 prod.amazoncrl.com
 0.0.0.0 arcus-uswest.amazon.com
 0.0.0.0 ktpx-na.amazon.com
+0.0.0.0 ktpx.amazon.com
 
 # Xioami Mi TV
 0.0.0.0 mitv.tracking.intl.miui.com
