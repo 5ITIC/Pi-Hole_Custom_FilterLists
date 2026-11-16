@@ -1,6 +1,48 @@
 # Game Console Adblock List (converted for Pi-hole)
 # Original: DandelionSprout Game Console Adblock List, 14 November 2026 v1-Alpha
 
+# PlayStation Vita
+0.0.0.0 telemetry-console.api.playstation.com
+0.0.0.0 telemetry-mobile.api.playstation.com
+0.0.0.0 telemetry-cii.api.playstation.com
+0.0.0.0 telemetry-web.api.playstation.com
+0.0.0.0 telemetry-schema-app.rnps.dl.playstation.net
+0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 mercury.dl.playstation.net
+0.0.0.0 nsx.np.dl.playstation.net
+0.0.0.0 nsx-e.np.dl.playstation.net
+0.0.0.0 getprof.us.np.community.playstation.net
+0.0.0.0 getprof.gb.np.community.playstation.net
+0.0.0.0 getprof.de.np.community.playstation.net
+0.0.0.0 getprof.au.np.community.playstation.net
+0.0.0.0 getprof.sa.np.community.playstation.net
+0.0.0.0 getprof.ch.np.community.playstation.net
+0.0.0.0 getprof.ae.np.community.playstation.net
+0.0.0.0 getprof.gr.np.community.playstation.net
+0.0.0.0 getprof.ie.np.community.playstation.net
+0.0.0.0 getprof.it.np.community.playstation.net
+0.0.0.0 getprof.mx.np.community.playstation.net
+0.0.0.0 getprof.no.np.community.playstation.net
+0.0.0.0 getprof.pt.np.community.playstation.net
+0.0.0.0 static-resource.np.community.playstation.net
+0.0.0.0 ranking-rec-e01.u0.np.community.playstation.net
+0.0.0.0 searchjid.usa.np.community.playstation.net
+0.0.0.0 searchjid.eu.np.community.playstation.net
+0.0.0.0 asm.np.community.playstation.net
+0.0.0.0 bclog.np.rds.s0.playstation.net
+0.0.0.0 livearea.np.dl.playstation.net
+0.0.0.0 psp2-e.np.dl.playstation.net
+0.0.0.0 a0.ww.np.dl.playstation.net
+0.0.0.0 a1.ww.np.dl.playstation.net
+0.0.0.0 a2.ww.np.dl.playstation.net
+0.0.0.0 crepo.ww.dl.playstation.net
+0.0.0.0 ena.net.playstation.net
+0.0.0.0 xmb.dl.playstation.net
+0.0.0.0 tmdb.np.dl.playstation.net
+0.0.0.0 us.np.stun.playstation.net
+0.0.0.0 psn-rsc.prod.dl.playstation.net
+0.0.0.0 lbpvita.online.scee.com
+
 # PlayStation 3
 0.0.0.0 .dl.playstation.net
 0.0.0.0 dl.playstation.net
